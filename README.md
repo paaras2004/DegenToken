@@ -90,8 +90,16 @@ For more details, visit the [OpenZeppelin documentation](https://docs.openzeppel
 
 ## Viewing the transactions on Snowtrace and Fuji Testnet
 
---Once the contract is deployed to the Testnet you can search The account where the contract is deployed in the search bar of snowtrace and then it will show all the transaction that includes the searched contract.
 
+
+--Once the contract is deployed to the Testnet you can search The account where the contract is deployed in the search bar of snowtrace and then it will show all the transaction that includes the searched contract.
+![snowtrace testnet](https://github.com/paaras2004/DegenToken/assets/90059820/87be8ced-c94d-49bb-bc2b-80aa08d960a5)
+
+
+
+
+
+![Fuji testnet ](https://github.com/paaras2004/DegenToken/assets/90059820/d027d8fb-2ea4-4be1-b3f8-ac0a502ba7ca)
 
 
 
@@ -106,3 +114,4 @@ PAARAS
 ## License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details
+
